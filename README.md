@@ -1,6 +1,7 @@
 # OpenRespond API
 
-!!! :warning: ***Note:** Currently in PoC development phase*
+| :warning: ***Note:** Currently in PoC development phase* |
+|----------------------------------------------------------|
 
 Open source cloud-based CAD dispatch system for 911, law enforcement, fire, and other emergency/non-emergency services.
 
